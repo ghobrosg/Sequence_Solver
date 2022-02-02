@@ -1,1 +1,4 @@
-# Sequence_Solver
+# Sequence Solver
+In my functions class, I learnt about sequences and how to determine wether they are geometric or arithmetic and how to continue them. A sequence is a list of numbers that follow a specific pattern. A geometric sequence is a sequence that goes from one term to the next by always multiplying or dividing by the same value. An arithmetic sequence is a sequence that goes from one term to the next thorugh addition or subtraction. After learning about them in class, I realized that I can make a C++ program that can take input from the user and then determine wether the sequence is arithmetic or geometric and then complete the sequence. In the image attached below, the input is 1, 2 and 4. The program then determines that it is a geometric sequence (since the sequence goes from one term to the next through the multiplication of 2) and continues the sequence.
+
+![image](https://user-images.githubusercontent.com/94204190/152194754-f4c9a3f0-0fcb-462e-b472-aae77390bdac.png)
